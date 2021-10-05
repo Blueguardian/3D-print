@@ -1,0 +1,23 @@
+{
+    "black_none": 11,
+    "black_none_engraved": 10,
+    "black_edge": 10,
+    "black_edge_engraved": 10,
+    "black_curved": 10,
+    "black_curved_engraved": 10,
+    "white_none": 10,
+    "white_none_engraved": 10,
+    "white_edge": 10,
+    "white_edge_engraved": 10,
+    "white_curved": 11,
+    "white_curved_engraved": 11,
+    "blue_none": 10,
+    "blue_none_engraved": 10,
+    "blue_edge": 11,
+    "blue_edge_engraved": 10,
+    "blue_curved": 10,
+    "blue_curved_engraved": 10,
+    "average_production_time": 1.532198656948923,
+    "average_engraving_time": 1.023429034932596,
+    "average_total_time": 28.686387422025728
+}

@@ -1,0 +1,11 @@
+{
+    "black_none": 9,
+    "black_edge": 10,
+    "black_curved": 10,
+    "white_none": 10,
+    "white_edge": 10,
+    "white_curved": 9,
+    "blue_none": 10,
+    "blue_edge": 9,
+    "blue_curved": 10
+}
