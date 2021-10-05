@@ -1,0 +1,1 @@
+/home/mogens/temp/dotfiles-dsk/i3blocks/wttr.py
