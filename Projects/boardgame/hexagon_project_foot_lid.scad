@@ -1,3 +1,16 @@
+/*Terraforming mars board bottom foot lid script
+Creating hexagon tiles for terraforming
+mars board 
+
+Author: Blueguard
+Credit: All developors of MCAD/regular_shapes
+        roipoussiere for TOUL
+        Developer of rail_test
+        
+        
+
+*/
+
 difference () {
 
 cylinder($fn = 6, h = 10, r = 100);
